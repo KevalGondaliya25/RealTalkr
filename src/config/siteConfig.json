@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "meta_author": "Real Talkr",
+    "meta_image": "",
+    "meta_description": "Real Talkr Landing Page"
+  },
+  "site_info": {
+    "title": "RealTalkr",
+    "description": "Our mission is to harness advanced AI technology to streamline the real estate process—empowering agents, buyers, and sellers with efficient, authentic conversations that drive better outcomes for all.",
+    "sub_description": "Ready to Transform Your Real Estate Game with AI?",
+    "main_description": "Email: <a href='mailto:info@realtalkr.ai'>info@realtalkr.ai</a>",
+    "base_url": "",
+    "logo": "/assets/imgs/logo/logo.svg",
+    "logo_light": "/assets/imgs/logo/logo-light.svg",
+    "logo_icon": "/assets/imgs/logo/logo-icon.svg",
+    "logo_width": 156,
+    "logo_height": 60,
+    "logo_text": "Real Talkr"
+  },
+  "footer_info": {
+    "address": {
+      "name": "6541, Brand tower, New York, USA",
+      "link": "https://maps.app.goo.gl/JNHvEqWiaBD6fZvUA",
+      "iframe_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.25280006535!2d-74.14448744699548!3d40.69763123333062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1705913587617!5m2!1sen!2sbd"
+    },
+    "email": "info@realtalkr.ai",
+    "mobile": "+(08) 365 301 710",
+    "open_date": "Sun - Mon",
+    "open_time": "8:30 am - 7:30 pm",
+    "copyright": {
+      "enable": true,
+      "label": "© All rights reserved by",
+      "company": "RealTalkr",
+      "link": "#"
+    }
+  },
+  "social": [
+    {
+      "name": "Fb",
+      "link": "#",
+      "value": "750,000"
+    },
+    {
+      "name": "Tw",
+      "link": "#",
+      "value": "750,000"
+    },
+    {
+      "name": "In",
+      "link": "#",
+      "value": "750,000"
+    },
+    {
+      "name": "Db",
+      "link": "#",
+      "value": "750,000"
+    },
+    {
+      "name": "Li",
+      "link": "#",
+      "value": "750,000"
+    }
+  ]
+}

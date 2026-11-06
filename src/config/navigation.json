@@ -1,0 +1,101 @@
+{
+  "header": [
+    {
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "name": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "footer1": [
+    {
+      "title": "Company",
+      "children": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Contact Us",
+          "path": "/contact"
+        }
+      ]
+    }
+  ],
+  "footer2": [
+    {
+      "title": "Company",
+      "children": [
+        {
+          "name": "About",
+          "path": "#"
+        },
+        {
+          "name": "Careers",
+          "path": "#"
+        },
+        {
+          "name": "Press",
+          "path": "#"
+        },
+        {
+          "name": "Contact Us",
+          "path": "#"
+        },
+        {
+          "name": "System Status",
+          "path": "#"
+        }
+      ]
+    },
+    {
+      "title": "Product",
+      "children": [
+        {
+          "name": "Live Chat",
+          "path": "#"
+        },
+        {
+          "name": "Jirogram",
+          "path": "#"
+        },
+        {
+          "name": "Datasetico",
+          "path": "#"
+        },
+        {
+          "name": "Underline",
+          "path": "#"
+        },
+        {
+          "name": "Keyword",
+          "path": "#"
+        }
+      ]
+    }
+  ],
+  "footer3": [
+    {
+      "name": "About",
+      "path": "#"
+    },
+    {
+      "name": "Careers",
+      "path": "#"
+    },
+    {
+      "name": "Journal",
+      "path": "#"
+    },
+    {
+      "name": "Contact",
+      "path": "#"
+    },
+    {
+      "name": "System",
+      "path": "#"
+    }
+  ]
+}

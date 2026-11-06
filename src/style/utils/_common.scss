@@ -1,0 +1,15 @@
+.offcanvas1 {
+  &::-webkit-scrollbar {
+    width: 1px;
+    background-color: white;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: #44454a;
+  }
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+  transition: background-color 0s 600000s, color 0s 600000s !important;
+}
